@@ -1,5 +1,4 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestPlatform.ObjectModel;
 using NUnit.Framework;
 
 namespace Exercises.Chapter2
@@ -22,7 +21,7 @@ namespace Exercises.Chapter2
       
       static readonly Action<BmiRange> Write = message => Console.Out.WriteLine(message);
       
-      public static void Main() {
+      public static void Do() {
          Run(Read, Write);
       }
 
