@@ -6,7 +6,7 @@
       {
          // run the program you've written, for example:
 //         Chapter2.Solutions.Bmi.Run();
-         Chapter8.Exercises.Do();
+         Chapter9.Exercises.Do();
       }
    }
 }

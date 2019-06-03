@@ -1,47 +1,74 @@
 using NUnit.Framework;
 using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.Linq;
 using LaYumba.Functional;
 using LaYumba.Functional.Data.LinkedList;
 using static LaYumba.Functional.Data.LinkedList.LinkedList;
 using LaYumba.Functional.Data.BinaryTree;
+using Microsoft.WindowsAzure.Storage.Blob.Protocol;
 using static LaYumba.Functional.Data.BinaryTree.Tree;
 using Unit = System.ValueTuple;
-using static LaYumba.Functional.F;
+//using static LaYumba.Functional.F;
 
 namespace Exercises.Chapter9
 {
    static class Exercises
    {
+//      public static void Test() {
+//         Func<int, int> @double = i => i * 2;
+//         Some(3).Map(@double).write();
+//
+//         Func<int, Func<int, int>> multiply = x => y => x * y;
+//         var multBy3 = Some(3).Map(multiply).write();
+//
+//         Func<int, int, int> m = (x, y) => x * y;
+//         Some(3).Map(m).Apply(Some(2)).write();
+//
+//         Some(m)
+//            .Apply(None)
+//            .Apply(Some(2)).write();
+//
+//         Enumerable.Range(1, 100)
+//            .Where(i => i % 20 == 0)
+//            .OrderBy(i => -i)
+//            .Select(i => $"{i}%")
+//            .ForEach(i => i.write());
+//
+//         var linq = from i in Enumerable.Range(1, 100)
+//            where i % 20 == 0
+//            orderby -i
+//            select $"{i}%".write();
+//
+//         var enumerable = from x in Enumerable.Range(1, 4)
+//            select (x * 2).write();
+//         enumerable.ToList();
+//      }
       public static void Do() {
-         Func<int, int> @double = i => i * 2;
-         Some(3).Map(@double).write();
+//         Test();
+         var empty = List<string>();
+         var letters = List("a", "b");
+         var taxi = List("c", letters);
 
-         Func<int, Func<int, int>> multiply = x => y => x * y;
-         var multBy3 = Some(3).Map(multiply).write();
+         var fruits = List("pineapple", "pear", "banana", "pectin");
+         var tropicalMix = fruits.Add("kiwi");
+         var yellowFruits = fruits.Add("lemon");
+         var fruits2 = fruits.InsertAt("sdf", 1);
+         var fruits3 = fruits.RemoveAt(1);
+         var fruits4 = fruits.TakeWhile(f => f.StartsWith("p"));
+         var fruits5 = fruits.DropWhile(f => f.StartsWith("p"));
+         var fruits6 = fruits.AsEnumerable().TakeWhile(f => f.StartsWith("p"));
+         var fruits7 = fruits.AsEnumerable().DropWhile(f => f.StartsWith("p"));
+         fruits7.ForEach(f => f.write());
+      }
 
-         Func<int, int, int> m = (x, y) => x * y;
-         Some(3).Map(m).Apply(Some(2)).write();
-
-         Some(m)
-            .Apply(None)
-            .Apply(Some(2)).write();
-
-         Enumerable.Range(1, 100)
-            .Where(i => i % 20 == 0)
-            .OrderBy(i => -i)
-            .Select(i => $"{i}%")
-            .ForEach(i => i.write());
-
-         var linq = from i in Enumerable.Range(1, 100)
-            where i % 20 == 0
-            orderby -i
-            select $"{i}%".write();
-
-         var enumerable = from x in Enumerable.Range(1, 4)
-            select (x * 2).write();
-         enumerable.ToList();
-      } 
+      static LaYumba.Functional.Data.LinkedList.List<T> InsertAt<T>(this LaYumba.Functional.Data.LinkedList.List<T> list, T item, int index) =>
+         index == 0 ? List(item, list) 
+            : list.Match(
+               () => throw new Exception(),
+               (t, ts) => List(t, ts.InsertAt(item, index - 1)));
+      
       // LISTS
 
       // Implement functions to work with the singly linked List defined in this chapter:
@@ -49,9 +76,24 @@ namespace Exercises.Chapter9
 
       // InsertAt inserts an item at the given index
 
+      static LaYumba.Functional.Data.LinkedList.List<T> RemoveAt<T>(this LaYumba.Functional.Data.LinkedList.List<T> list, int index) =>
+         list.Match(
+            () => throw new Exception(),
+            (t, ts) => index == 0 ? ts : List(t, ts.RemoveAt(index - 1)));
+
       // RemoveAt removes the item at the given index
 
+      static LaYumba.Functional.Data.LinkedList.List<T> TakeWhile<T>(this LaYumba.Functional.Data.LinkedList.List<T> list, Func<T, bool> p) =>
+         list.Match(
+            () => List<T>(),
+            (t, ts) => p(t) ? List(t, ts.TakeWhile(p)): List<T>());
+
       // TakeWhile takes a predicate, and traverses the list yielding all items until it find one that fails the predicate
+
+      static LaYumba.Functional.Data.LinkedList.List<T> DropWhile<T>(this LaYumba.Functional.Data.LinkedList.List<T> list, Func<T, bool> p) =>
+         list.Match(
+            () => List<T>(),
+            (t, ts) => p(t) ? ts.DropWhile(p) : List(t, ts));
 
       // DropWhile works similarly, but excludes all items at the front of the list
 
@@ -67,6 +109,20 @@ namespace Exercises.Chapter9
       // RemoveAt: 
       // TakeWhile: 
       // DropWhile: 
+      
+      static IEnumerable<T> TakeWhile<T>(this IEnumerable<T> ts, Func<T, bool> p) {
+         foreach (var t in ts)
+            if (p(t)) yield return t;
+            else yield break;
+      }
+            
+      static IEnumerable<T> DropWhile<T>(this IEnumerable<T> ts, Func<T, bool> p) {
+         var b = true;
+         foreach (var t in ts) {
+            if (b && !p(t)) b = false;
+            if (!b) yield return t;
+         }
+      }
 
       // TakeWhile and DropWhile are useful when working with a list that is sorted 
       // and you’d like to get all items greater/smaller than some value; write implementations 
