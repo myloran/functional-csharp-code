@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="363eec02-76cf-46a1-a43a-06631ccba5dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VS2017/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.VS2017/.idea/contentModel.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VS2017/.idea/indexLayout.xml" afterPath="$PROJECT_DIR$/.idea/.idea.VS2017/.idea/indexLayout.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VS2017/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.VS2017/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VS2017/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.VS2017/riderModule.iml" />
-      <change beforePath="$PROJECT_DIR$/Examples/Examples.csproj" afterPath="$PROJECT_DIR$/Examples/Examples.csproj" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Chapter02/Exercises.cs" afterPath="$PROJECT_DIR$/Exercises/Chapter02/Exercises.cs" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Chapter03/Exercises.cs" afterPath="$PROJECT_DIR$/Exercises/Chapter03/Exercises.cs" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Chapter04/Exercises.cs" afterPath="$PROJECT_DIR$/Exercises/Chapter04/Exercises.cs" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Chapter05/Exercises.cs" afterPath="$PROJECT_DIR$/Exercises/Chapter05/Exercises.cs" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Chapter06/Exercises.cs" afterPath="$PROJECT_DIR$/Exercises/Chapter06/Exercises.cs" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Chapter07/Exercises.cs" afterPath="$PROJECT_DIR$/Exercises/Chapter07/Exercises.cs" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Exercises.csproj" afterPath="$PROJECT_DIR$/Exercises/Exercises.csproj" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Program.cs" afterPath="$PROJECT_DIR$/Exercises/Program.cs" />
-      <change beforePath="$PROJECT_DIR$/LaYumba.Functional/LaYumba.Functional.csproj" afterPath="$PROJECT_DIR$/LaYumba.Functional/LaYumba.Functional.csproj" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Chapter08/Exercises.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VS2017/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VS2017/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VS2017/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VS2017/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VS2017/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VS2017/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VS2017/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VS2017/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Chapter09/Exercises.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Chapter09/Exercises.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercises.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Exercises.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Program.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,29 +23,30 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="28" />
+          <entry key="cs" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="28" />
+          <entry key="C#" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="C# Console" value="348" />
-          <entry key="cs" value="3303" />
+          <entry key="cs" value="6561" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="3651" />
+          <entry key="C#" value="6909" />
         </counts>
       </usages-collector>
     </session>
@@ -62,89 +56,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exercises.cs" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises/Chapter03/Exercises.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="93">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding>
-                <marker date="1559503616615" expanded="false" signature="6:297" ph="..." />
-                <marker date="1559503616615" expanded="true" signature="326:436" ph="{...}" />
-                <marker date="1559503616615" expanded="true" signature="373:434" ph="{...}" />
-                <marker date="1559503616615" expanded="true" signature="465:5219" ph="{...}" />
-                <marker date="1559503616615" expanded="true" signature="500:4349" ph="{...}" />
-                <marker date="1559503616615" expanded="true" signature="633:1460" ph="{...}" />
-                <marker date="1559503616615" expanded="true" signature="1269:1369" ph="/* new List&lt;int&gt;().Lookup(IsOdd).write(); ... */" />
-                <marker date="1559503616615" expanded="true" signature="1974:2201" ph="{...}" />
-                <marker date="1559503616615" expanded="true" signature="2047:2193" ph="/* var result = source.Where(predicate).ToList(); ... */" />
-                <marker date="1559503616615" expanded="true" signature="2228:2669" ph="{...}" />
-                <marker date="1559503616615" expanded="true" signature="2768:3087" ph="{...}" />
-                <marker date="1559503616615" expanded="true" signature="2881:3009" ph="{...}" />
-                <marker date="1559503616615" expanded="true" signature="3095:4344" ph="/* 1 Write a generic function that takes a string and parses it as a value of an enum. It ... */" />
-                <marker date="1559503616615" expanded="true" signature="4354:4665" ph="/* 5.  Write implementations for the methods in the `AppConfig` class ... */" />
-                <marker date="1559503616615" expanded="true" signature="4691:5217" ph="{...}" />
-                <marker date="1559503616615" expanded="true" signature="4855:4902" ph="{...}" />
+                <marker date="1559541131234" expanded="false" signature="6:297" ph="..." />
+                <marker date="1559541131234" expanded="true" signature="326:436" ph="{...}" />
+                <marker date="1559541131234" expanded="true" signature="373:434" ph="{...}" />
+                <marker date="1559541131234" expanded="true" signature="465:5219" ph="{...}" />
+                <marker date="1559541131234" expanded="true" signature="500:4349" ph="{...}" />
+                <marker date="1559541131234" expanded="true" signature="633:1460" ph="{...}" />
+                <marker date="1559541131234" expanded="true" signature="1269:1369" ph="/* new List&lt;int&gt;().Lookup(IsOdd).write(); ... */" />
+                <marker date="1559541131234" expanded="true" signature="1974:2201" ph="{...}" />
+                <marker date="1559541131234" expanded="true" signature="2047:2193" ph="/* var result = source.Where(predicate).ToList(); ... */" />
+                <marker date="1559541131234" expanded="true" signature="2228:2669" ph="{...}" />
+                <marker date="1559541131234" expanded="true" signature="2768:3087" ph="{...}" />
+                <marker date="1559541131234" expanded="true" signature="2881:3009" ph="{...}" />
+                <marker date="1559541131234" expanded="true" signature="3095:4344" ph="/* 1 Write a generic function that takes a string and parses it as a value of an enum. It ... */" />
+                <marker date="1559541131234" expanded="true" signature="4354:4665" ph="/* 5.  Write implementations for the methods in the `AppConfig` class ... */" />
+                <marker date="1559541131234" expanded="true" signature="4691:5217" ph="{...}" />
+                <marker date="1559541131234" expanded="true" signature="4855:4902" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercises.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercises/Chapter07/Exercises.cs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/Chapter09/Exercises.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3959">
-              <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="310">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="49" />
               <folding>
-                <marker date="1559506609614" expanded="true" signature="6:124" ph="..." />
-                <marker date="1559506609614" expanded="true" signature="155:6197" ph="{...}" />
-                <marker date="1559506609614" expanded="true" signature="183:6195" ph="{...}" />
-                <marker date="1559506609614" expanded="true" signature="219:942" ph="{...}" />
-                <marker date="1559506609614" expanded="true" signature="1376:2256" ph="/* 1. Partial application with a binary arithmethic function: ... */" />
-                <marker date="1559506609614" expanded="true" signature="2335:2653" ph="{...}" />
-                <marker date="1559506609614" expanded="true" signature="2513:2645" ph="{...}" />
-                <marker date="1559506609614" expanded="true" signature="2679:2998" ph="{...}" />
-                <marker date="1559506609614" expanded="true" signature="3375:3956" ph="/* 2. Let's move on to ternary functions. Define a class `PhoneNumber` with 3 ... */" />
-                <marker date="1559506609614" expanded="true" signature="4912:5461" ph="/* 3. Functions everywhere. You may still have a feeling that objects are ultimately ... */" />
+                <marker date="1559547631470" expanded="true" signature="6:346" ph="..." />
+                <marker date="1559547631470" expanded="true" signature="376:3155" ph="{...}" />
+                <marker date="1559547631470" expanded="true" signature="404:3153" ph="{...}" />
+                <marker date="1559547631470" expanded="true" signature="440:1276" ph="{...}" />
+                <marker date="1559547631470" expanded="true" signature="1284:1773" ph="/* LISTS ... */" />
+                <marker date="1559547631470" expanded="true" signature="1782:2239" ph="/* complexity: ... */" />
+                <marker date="1559547631470" expanded="true" signature="2248:3147" ph="/* TREES ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solutions.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/Chapter07/Solutions.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises/Chapter08/Exercises.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+            <state relative-caret-position="564">
+              <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
               <folding>
-                <marker date="1559328746405" expanded="false" signature="6:62" ph="..." />
-                <marker date="1559328746405" expanded="true" signature="102:4823" ph="{...}" />
-                <marker date="1559328746405" expanded="true" signature="130:4821" ph="{...}" />
-                <marker date="1559328746405" expanded="true" signature="142:342" ph="/* 1. Partial application with a binary arithmethic function: ... */" />
-                <marker date="1559328746405" expanded="true" signature="676:1260" ph="/* Notice how the expected order of parameters is not the ... */" />
-                <marker date="1559328746405" expanded="true" signature="1378:1480" ph="/* Use `ApplyR` to create a function that returns the ... */" />
-                <marker date="1559328746405" expanded="true" signature="1794:2055" ph="/* 2. Let's move on to ternary functions. Define a class `PhoneNumber` with 3 ... */" />
-                <marker date="1559328746405" expanded="true" signature="2128:2450" ph="{...}" />
-                <marker date="1559328746405" expanded="true" signature="2475:2805" ph="{...}" />
-                <marker date="1559328746405" expanded="true" signature="2690:2797" ph="{...}" />
-                <marker date="1559328746405" expanded="true" signature="2813:3041" ph="/* Now define a ternary function that creates a new number, given values for these fields. ... */" />
-                <marker date="1559328746405" expanded="true" signature="3217:3374" ph="/* Use partial application to create a binary function that creates a UK number, ... */" />
-                <marker date="1559328746405" expanded="true" signature="3612:4156" ph="/* 3. Functions everywhere. You may still have a feeling that objects are ultimately ... */" />
+                <marker date="1559560399421" expanded="true" signature="6:205" ph="..." />
+                <marker date="1559560399421" expanded="true" signature="236:3366" ph="{...}" />
+                <marker date="1559560399421" expanded="true" signature="263:3364" ph="{...}" />
+                <marker date="1559560399421" expanded="true" signature="293:1176" ph="{...}" />
+                <marker date="1559560399421" expanded="true" signature="2397:3293" ph="{...}" />
+                <marker date="1559560399421" expanded="true" signature="2689:3287" ph="{...}" />
+                <marker date="1559560399421" expanded="true" signature="2877:2970" ph="{...}" />
+                <marker date="1559560399421" expanded="true" signature="3164:3238" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FuncExt.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LaYumba.Functional/FuncExt.cs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LaYumba.Functional/Exceptional.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="18" selection-end-column="32" />
+            <state relative-caret-position="229">
+              <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
               <folding>
-                <marker date="1559328746424" expanded="false" signature="6:45" ph="..." />
-                <marker date="1559328746424" expanded="true" signature="75:1742" ph="{...}" />
-                <marker date="1559328746424" expanded="true" signature="128:834" ph="{...}" />
-                <marker date="1559328746424" expanded="true" signature="898:1740" ph="{...}" />
-                <marker date="1559328746424" expanded="true" signature="1616:1734" ph="{...}" />
+                <marker date="1559196030953" expanded="false" signature="6:45" ph="..." />
+                <marker date="1559196030953" expanded="true" signature="75:3024" ph="{...}" />
+                <marker date="1559196030953" expanded="true" signature="110:209" ph="{...}" />
+                <marker date="1559196030953" expanded="true" signature="242:1287" ph="{...}" />
+                <marker date="1559196030953" expanded="true" signature="449:582" ph="{...}" />
+                <marker date="1559196030953" expanded="true" signature="619:679" ph="{...}" />
+                <marker date="1559196030953" expanded="true" signature="1323:3022" ph="{...}" />
+                <marker date="1559196030953" expanded="true" signature="2766:3017" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding>
+                <marker date="1559551689020" expanded="true" signature="19:250" ph="{...}" />
+                <marker date="1559551689020" expanded="true" signature="45:248" ph="{...}" />
+                <marker date="1559551689020" expanded="true" signature="95:243" ph="{...}" />
+                <marker date="1559551689020" expanded="true" signature="113:201" ph="/* run the program you've written, for example: ... */" />
               </folding>
             </state>
           </provider>
@@ -161,70 +165,63 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/Enum.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B658CEB2-EF15-4934-BB71-D225F117E4F3/7a/ca48775b/OrderedEnumerable`1.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/DictionaryExt.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B658CEB2-EF15-4934-BB71-D225F117E4F3/c3/56b22a2a/Enumerable.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/F.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/EnumerableExt.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/DbLogger/DbLogger_V1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/DbLogger/DbLogger_V2.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/Exceptional.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/DbLogger/ConnectionHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/DbLogger/TimeSpanExt.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/Tenets.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/DbLogger/LogMessage.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/HOFs.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/Circle.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/Functions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/Employee.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/String.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/TaskExt.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/Option.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/FuncExt.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LaYumba.Functional/Either.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exercises/Chapter09/Exercises.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Exercises/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LaYumba.Functional.Tests/Option/ApplicativeLaws.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Exercises/Chapter07/Exercises.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Exercises/Chapter06/Exercises.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Exercises/Chapter07/Solutions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/DbLogger/DbLogger_V2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/DbLogger/DbLogger_V1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter12/Trade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/DbLogger/LogMessage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Exercises/Chapter05/Exercises.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Exercises/Chapter06/Solutions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Exercises/Chapter04/Exercises.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Exercises/Chapter05/Solutions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exercises/Chapter06/Exercises.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/Tenets.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Exercises/Chapter04/Person.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Exercises/Chapter04/Solutions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/DbLogger/TimeSpanExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exercises/Chapter04/Exercises.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/DbLogger/ConnectionHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exercises/Chapter05/Solutions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exercises/Chapter02/Exercises.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/Employee.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Exercises/Chapter03/Solutions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Exercises/Chapter03/Exercises.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Exercises/Chapter01/Exercises.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Exercises/Chapter02/Solutions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/Circle.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Exercises/Chapter01/Solutions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Exercises/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F81A4140-A898-4E2B-B6E9-55CE78C273EC/57/a50d51b1/ValueTuple.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter15/Boc/AccountProcess.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exercises/Chapter01/Exercises.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Examples/Chapter07/Greetings.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/TransferOnHandler/v1 Skeleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exercises/Chapter02/Solutions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter01/HOFs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/EitherBasedAPIs/Result.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B43FC03A-99FB-4504-BCE4-4A3D1B284B35/e0/c3ea6177/Unit.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/EitherBasedAPIs/InstrumentsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/TransferOnHandler/v1 Skeleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exercises/Chapter07/Solutions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/TransferOnHandler/v2 ValidationMethods.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/EitherBasedAPIs/BookTransferController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/EitherBasedAPIs/InstrumentsController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/Particularized/BookTransferController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/36486B01-6D23-4FCA-8CD6-7892BF29C7B5/d5/8dd6b81f/ImmutableList.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/LaYumba.Functional.Tests/BinaryTreeTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter06/SimpleUsage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exercises/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Examples/Chapter06/Unbiased.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4930162C-2FF4-4988-B687-6A780FDAB62B/c6/e67c4add/ISet`1.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Examples/Chapter06/Aggregate.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter06/Where.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2281EDDC-9019-4FCD-B86B-3526565F1469/9e/ba888448/ValueTuple.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Examples/Chapter06/CookFavouriteFood.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Examples/Chapter12/Trade.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Exercises/Chapter02/Exercises.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2281EDDC-9019-4FCD-B86B-3526565F1469/41/73105869/Convert.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E2597977-4AC5-41F4-9616-28714AA243AB/c0/5598c26c/Regex.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2281EDDC-9019-4FCD-B86B-3526565F1469/35/669e3cf5/Enum.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C123CE2F-8E49-47F9-9BE6-F39A957D91EE/d6/419646ef/Console.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter06/SimpleUsage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter06/Where.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/Enum.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/DictionaryExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LaYumba.Functional.Tests/BinaryTreeTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/F.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/Exceptional.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Chapter15/Boc/AccountProcess.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/Validation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/EnumerableExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/String.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/FuncExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/TaskExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LaYumba.Functional/Option.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exercises/Chapter08/Exercises.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examples/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -240,9 +237,11 @@
         <option value="$PROJECT_DIR$/Examples/Chapter06/Boc/Particularized/BookTransferController.cs" />
         <option value="$PROJECT_DIR$/Examples/Chapter06/Boc/TransferOnHandler/v2 ValidationMethods.cs" />
         <option value="$PROJECT_DIR$/Exercises/Chapter06/Exercises.cs" />
-        <option value="$PROJECT_DIR$/Exercises/Program.cs" />
         <option value="$PROJECT_DIR$/Exercises/Chapter03/Exercises.cs" />
         <option value="$PROJECT_DIR$/Exercises/Chapter07/Exercises.cs" />
+        <option value="$PROJECT_DIR$/Exercises/Chapter09/Exercises.cs" />
+        <option value="$PROJECT_DIR$/Exercises/Program.cs" />
+        <option value="$PROJECT_DIR$/Exercises/Chapter08/Exercises.cs" />
       </list>
     </option>
   </component>
@@ -253,10 +252,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -276,41 +275,60 @@
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="VS2017 (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="VS2017" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="VS2017 (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Exercises" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="VS2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Examples" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="VS2017 (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Exercises" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Chapter07" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="VS2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Examples" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Chapter06" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="VS2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Exercises" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="VS2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Exercises" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Chapter06" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="VS2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Exercises" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Chapter07" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="VS2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Exercises" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Chapter08" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="VS2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Exercises" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Chapter09" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
         </subPane>
+        <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
     </panes>
@@ -348,8 +366,9 @@
         <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
         <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
       </envs>
-      <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Examples/Examples.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
@@ -357,51 +376,57 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
       <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Examples" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Examples/bin/Debug/netcoreapp2.1/Examples.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Examples" />
       <option name="PASS_PARENT_ENVS" value="1" />
-      <envs />
-      <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Examples/Examples.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Exercises" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Exercises/bin/Debug/netcoreapp2.1/Exercises.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
       <option name="PASS_PARENT_ENVS" value="1" />
-      <envs />
-      <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Exercises/Exercises.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
-      <item index="1" class="java.lang.String" itemvalue=".NET Project.Examples" />
-      <item index="2" class="java.lang.String" itemvalue=".NET Project.Exercises" />
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.Examples" />
+      <item itemvalue=".NET Project.Exercises" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue=".NET Project.Exercises" />
-        <item index="1" class="java.lang.String" itemvalue=".NET Project.Examples" />
+      <list>
+        <item itemvalue=".NET Project.Exercises" />
+        <item itemvalue=".NET Project.Examples" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -419,11 +444,12 @@
       <workItem from="1559328933489" duration="2653000" />
       <workItem from="1559331639199" duration="34640000" />
       <workItem from="1559503374143" duration="3282000" />
+      <workItem from="1559541887519" duration="11642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52949000" />
+    <option name="totallyTimeSpent" value="64591000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -435,30 +461,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26516855" sideWeight="0.502445" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19550562" sideWeight="0.49755502" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33820224" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2628362" sideWeight="0.4938838" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25977996" sideWeight="0.5061162" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4938838" visible="true" weight="0.26545843" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5061162" side_tool="true" weight="0.25977996" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32921347" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49755502" visible="true" weight="0.19493392" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32921347" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.33820224" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="9" weight="0.32921347" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32921347" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.502445" side_tool="true" weight="0.26516855" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32921347" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32819384" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,507 +509,428 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercises/Chapter01/Exercises.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Chapter07/Greetings.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercises.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/Properties/AssemblyInfo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/Chapter02/Exercises.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="89" />
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="89" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B658CEB2-EF15-4934-BB71-D225F117E4F3/7a/ca48775b/OrderedEnumerable`1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B658CEB2-EF15-4934-BB71-D225F117E4F3/7a/ca48775b/OrderedEnumerable`1.cs" />
     <entry file="file://$PROJECT_DIR$/LaYumba.Functional/String.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2281EDDC-9019-4FCD-B86B-3526565F1469/35/669e3cf5/Enum.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="191" column="23" lean-forward="false" selection-start-line="191" selection-start-column="23" selection-end-line="191" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2281EDDC-9019-4FCD-B86B-3526565F1469/35/669e3cf5/Enum.cs" />
     <entry file="file://$PROJECT_DIR$/LaYumba.Functional/Enum.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2281EDDC-9019-4FCD-B86B-3526565F1469/41/73105869/Convert.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="489" column="25" lean-forward="false" selection-start-line="489" selection-start-column="25" selection-end-line="489" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4930162C-2FF4-4988-B687-6A780FDAB62B/c6/e67c4add/ISet`1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E2597977-4AC5-41F4-9616-28714AA243AB/c0/5598c26c/Regex.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="494" column="17" lean-forward="false" selection-start-line="494" selection-start-column="17" selection-end-line="494" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/36486B01-6D23-4FCA-8CD6-7892BF29C7B5/d5/8dd6b81f/ImmutableList.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="70" column="41" lean-forward="false" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2281EDDC-9019-4FCD-B86B-3526565F1469/41/73105869/Convert.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4930162C-2FF4-4988-B687-6A780FDAB62B/c6/e67c4add/ISet`1.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E2597977-4AC5-41F4-9616-28714AA243AB/c0/5598c26c/Regex.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/36486B01-6D23-4FCA-8CD6-7892BF29C7B5/d5/8dd6b81f/ImmutableList.cs" />
     <entry file="file://$PROJECT_DIR$/LaYumba.Functional/EnumerableExt.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
-          <caret line="50" column="35" lean-forward="false" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LaYumba.Functional/DictionaryExt.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/Chapter03/Solutions.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
-          <caret line="84" column="21" lean-forward="false" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
+          <caret line="84" column="21" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B658CEB2-EF15-4934-BB71-D225F117E4F3/c3/56b22a2a/Enumerable.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="2654" column="46" lean-forward="false" selection-start-line="2654" selection-start-column="46" selection-end-line="2654" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B658CEB2-EF15-4934-BB71-D225F117E4F3/c3/56b22a2a/Enumerable.cs" />
     <entry file="file://$PROJECT_DIR$/Exercises/Chapter05/Solutions.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-760">
-          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/EitherBasedAPIs/InstrumentsController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/EitherBasedAPIs/Result.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/Particularized/BookTransferController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/TransferOnHandler/v1 Skeleton.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
+        <state relative-caret-position="-228" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/TransferOnHandler/v2 ValidationMethods.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="19" selection-end-column="18" />
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Examples/Chapter06/Aggregate.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Chapter06/CookFavouriteFood.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Examples/Chapter06/SimpleUsage.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-867">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
+        <state relative-caret-position="-867" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Examples/Chapter06/Unbiased.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-829">
-          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Examples/Chapter06/Where.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/EitherBasedAPIs/BookTransferController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="563">
-          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LaYumba.Functional/Option.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="94" column="30" lean-forward="false" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LaYumba.Functional/Either.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="96" column="34" lean-forward="false" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LaYumba.Functional/Exceptional.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Chapter06/Solutions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-311">
-          <caret line="53" column="23" lean-forward="false" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F81A4140-A898-4E2B-B6E9-55CE78C273EC/57/a50d51b1/ValueTuple.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C123CE2F-8E49-47F9-9BE6-F39A957D91EE/d6/419646ef/Console.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="107" column="29" lean-forward="false" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F81A4140-A898-4E2B-B6E9-55CE78C273EC/57/a50d51b1/ValueTuple.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C123CE2F-8E49-47F9-9BE6-F39A957D91EE/d6/419646ef/Console.cs" />
     <entry file="file://$PROJECT_DIR$/Exercises/Chapter05/Exercises.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-          <folding>
-            <marker date="1559456256757" expanded="false" signature="6:175" ph="..." />
-            <marker date="1559456256757" expanded="true" signature="205:1335" ph="{...}" />
-            <marker date="1559456256757" expanded="true" signature="240:1333" ph="{...}" />
-            <marker date="1559456256757" expanded="true" signature="252:653" ph="/* (IEnurable&lt;T&gt;, T =&gt; R) =&gt; IOrderedEnumerable&lt;T&gt; ... */" />
-            <marker date="1559456256757" expanded="true" signature="910:1065" ph="/* 2 Check your answer with the MSDN documentation: https://docs.microsoft.com ... */" />
-            <marker date="1559456256757" expanded="true" signature="1199:1328" ph="/* 3 Implement a general purpose Compose function that takes two unary functions ... */" />
-          </folding>
+        <state>
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Examples/Chapter15/Boc/AccountProcess.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <marker date="1559328746394" expanded="true" signature="6:209" ph="..." />
-            <marker date="1559328746394" expanded="true" signature="234:1224" ph="{...}" />
-            <marker date="1559328746394" expanded="true" signature="336:1222" ph="{...}" />
-            <marker date="1559328746394" expanded="true" signature="473:1150" ph="{...}" />
-            <marker date="1559328746394" expanded="true" signature="580:1140" ph="{...}" />
-            <marker date="1559328746394" expanded="true" signature="653:805" ph="{...}" />
-          </folding>
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Examples/Chapter12/Trade.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1330">
-          <caret line="97" column="21" lean-forward="false" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
-          <folding>
-            <marker date="1559328746387" expanded="false" signature="6:92" ph="..." />
-            <marker date="1559328746387" expanded="true" signature="124:3622" ph="{...}" />
-            <marker date="1559328746387" expanded="false" signature="136:215" ph="..." />
-            <marker date="1559328746387" expanded="true" signature="230:533" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="410:527" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="550:675" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="692:818" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="835:1109" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="1034:1103" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="1142:2544" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="1228:1470" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="2145:2435" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="2264:2375" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="2588:3620" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="2647:2765" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="2805:3615" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="2850:2940" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="2978:3236" ph="{...}" />
-            <marker date="1559328746387" expanded="true" signature="3276:3488" ph="{...}" />
-          </folding>
+          <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LaYumba.Functional/F.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <marker date="1559328746423" expanded="false" signature="6:134" ph="..." />
-            <marker date="1559328746423" expanded="true" signature="164:2993" ph="{...}" />
-            <marker date="1559328746423" expanded="true" signature="199:2991" ph="{...}" />
-            <marker date="1559328746423" expanded="true" signature="918:1170" ph="/// Pipes the input value in the given Action, i.e. invokes the given Action on the given value. ... " />
-            <marker date="1559328746423" expanded="true" signature="1933:1956" ph="/* misc ... */" />
-            <marker date="1559328746423" expanded="true" signature="2069:2143" ph="{...}" />
-            <marker date="1559328746423" expanded="true" signature="2433:2515" ph="{...}" />
-            <marker date="1559328746423" expanded="true" signature="2776:2850" ph="{...}" />
-            <marker date="1559328746423" expanded="true" signature="2912:2986" ph="{...}" />
-          </folding>
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/Chapter04/Person.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1559328746402" expanded="true" signature="55:418" ph="{...}" />
-            <marker date="1559328746402" expanded="true" signature="80:416" ph="{...}" />
-            <marker date="1559328746402" expanded="true" signature="333:411" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/Chapter04/Solutions.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="74" column="36" lean-forward="false" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
-          <folding>
-            <marker date="1559328746403" expanded="false" signature="6:127" ph="..." />
-            <marker date="1559328746403" expanded="true" signature="167:2772" ph="{...}" />
-            <marker date="1559328746403" expanded="true" signature="215:2770" ph="{...}" />
-            <marker date="1559328746403" expanded="true" signature="227:398" ph="/* 1 Implement Map for ISet&lt;T&gt; and IDictionary&lt;K, T&gt;. (Tip: start by writing down ... */" />
-            <marker date="1559328746403" expanded="true" signature="460:589" ph="{...}" />
-            <marker date="1559328746403" expanded="true" signature="753:909" ph="{...}" />
-            <marker date="1559328746403" expanded="true" signature="1237:1383" ph="/* 3 Use Bind and an Option-returning Lookup function (such as the one we defined ... */" />
-            <marker date="1559328746403" expanded="true" signature="1564:1677" ph="/* Then enrich the implementation so that `GetWorkPermit` ... */" />
-            <marker date="1559328746403" expanded="true" signature="2025:2155" ph="/* 4 Use Bind to implement AverageYearsWorkedAtTheCompany, shown below (only ... */" />
-          </folding>
+          <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/Chapter04/Exercises.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="789">
-          <caret line="93" column="23" lean-forward="false" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
-          <folding>
-            <marker date="1559456256782" expanded="false" signature="6:244" ph="..." />
-            <marker date="1559456256782" expanded="true" signature="274:4107" ph="{...}" />
-            <marker date="1559456256782" expanded="true" signature="302:3765" ph="{...}" />
-            <marker date="1559456256782" expanded="true" signature="338:966" ph="{...}" />
-            <marker date="1559456256782" expanded="true" signature="1078:1215" ph="{...}" />
-            <marker date="1559456256782" expanded="true" signature="1437:1622" ph="{...}" />
-            <marker date="1559456256782" expanded="true" signature="1793:1963" ph="{...}" />
-            <marker date="1559456256782" expanded="true" signature="2213:2697" ph="/* 1 Implement Map for ISet&lt;T&gt; and IDictionary&lt;K, T&gt;. (Tip: start by writing down ... */" />
-            <marker date="1559456256782" expanded="true" signature="3184:3314" ph="/* 4 Use Bind to implement AverageYearsWorkedAtTheCompany, shown below (only ... */" />
-            <marker date="1559456256782" expanded="true" signature="3393:3640" ph="{...}" />
-            <marker date="1559456256782" expanded="true" signature="3395:3514" ph="/* employees.Where(e =&gt; e.LeftOn.Match(() =&gt; false, l =&gt; true)) ... */" />
-            <marker date="1559456256782" expanded="true" signature="3794:3888" ph="{...}" />
-            <marker date="1559456256782" expanded="true" signature="3914:4105" ph="{...}" />
-          </folding>
+          <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Chapter06/Exercises.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B43FC03A-99FB-4504-BCE4-4A3D1B284B35/e0/c3ea6177/Unit.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2281EDDC-9019-4FCD-B86B-3526565F1469/9e/ba888448/ValueTuple.cs" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Chapter07/Solutions.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="30" column="58" lean-forward="false" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
-          <folding>
-            <marker date="1559475889845" expanded="false" signature="6:91" ph="..." />
-            <marker date="1559475889845" expanded="true" signature="121:3389" ph="{...}" />
-            <marker date="1559475889845" expanded="true" signature="149:3387" ph="{...}" />
-            <marker date="1559475889845" expanded="true" signature="185:895" ph="{...}" />
-            <marker date="1559475889845" expanded="true" signature="1377:1746" ph="/* 1. Write a `ToOption` extension method to convert an `Either` into an ... */" />
-            <marker date="1559475889845" expanded="true" signature="2202:2698" ph="/* 2. Take a workflow where 2 or more functions that return an `Option` ... */" />
-            <marker date="1559475889845" expanded="true" signature="2772:2856" ph="{...}" />
-            <marker date="1559475889845" expanded="true" signature="2864:3062" ph="/* 3. Write a function `Safely` of type ((() → R), (Exception → L)) → Either&lt;L, R&gt; that will ... */" />
-            <marker date="1559475889845" expanded="true" signature="3110:3191" ph="{...}" />
-            <marker date="1559475889845" expanded="true" signature="3199:3382" ph="/* 4. Write a function `Try` of type (() → T) → Exceptional&lt;T&gt; that will ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B43FC03A-99FB-4504-BCE4-4A3D1B284B35/e0/c3ea6177/Unit.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2281EDDC-9019-4FCD-B86B-3526565F1469/9e/ba888448/ValueTuple.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          <folding />
+        <state>
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LaYumba.Functional/FuncExt.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="18" selection-end-column="32" />
+        <state>
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LaYumba.Functional.Tests/Option/ApplicativeLaws.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
           <folding>
-            <marker date="1559328746424" expanded="false" signature="6:45" ph="..." />
-            <marker date="1559328746424" expanded="true" signature="75:1742" ph="{...}" />
-            <marker date="1559328746424" expanded="true" signature="128:834" ph="{...}" />
-            <marker date="1559328746424" expanded="true" signature="898:1740" ph="{...}" />
-            <marker date="1559328746424" expanded="true" signature="1616:1734" ph="{...}" />
+            <marker date="1559196030944" expanded="false" signature="6:97" ph="..." />
+            <marker date="1559196030944" expanded="true" signature="133:3390" ph="{...}" />
+            <marker date="1559196030944" expanded="true" signature="217:503" ph="{...}" />
+            <marker date="1559196030944" expanded="true" signature="275:498" ph="{...}" />
+            <marker date="1559196030944" expanded="true" signature="508:653" ph="/* illustrates that the applicative laws hold for Option ... */" />
+            <marker date="1559196030944" expanded="true" signature="699:3388" ph="{...}" />
+            <marker date="1559196030944" expanded="true" signature="903:1001" ph="{...}" />
+            <marker date="1559196030944" expanded="true" signature="1303:1696" ph="{...}" />
+            <marker date="1559196030944" expanded="true" signature="1938:2159" ph="{...}" />
+            <marker date="1559196030944" expanded="true" signature="2550:2789" ph="{...}" />
+            <marker date="1559196030944" expanded="true" signature="3060:3383" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Chapter07/Solutions.cs">
+    <entry file="file://$PROJECT_DIR$/Exercises/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+        <state relative-caret-position="279">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding>
-            <marker date="1559328746405" expanded="false" signature="6:62" ph="..." />
-            <marker date="1559328746405" expanded="true" signature="102:4823" ph="{...}" />
-            <marker date="1559328746405" expanded="true" signature="130:4821" ph="{...}" />
-            <marker date="1559328746405" expanded="true" signature="142:342" ph="/* 1. Partial application with a binary arithmethic function: ... */" />
-            <marker date="1559328746405" expanded="true" signature="676:1260" ph="/* Notice how the expected order of parameters is not the ... */" />
-            <marker date="1559328746405" expanded="true" signature="1378:1480" ph="/* Use `ApplyR` to create a function that returns the ... */" />
-            <marker date="1559328746405" expanded="true" signature="1794:2055" ph="/* 2. Let's move on to ternary functions. Define a class `PhoneNumber` with 3 ... */" />
-            <marker date="1559328746405" expanded="true" signature="2128:2450" ph="{...}" />
-            <marker date="1559328746405" expanded="true" signature="2475:2805" ph="{...}" />
-            <marker date="1559328746405" expanded="true" signature="2690:2797" ph="{...}" />
-            <marker date="1559328746405" expanded="true" signature="2813:3041" ph="/* Now define a ternary function that creates a new number, given values for these fields. ... */" />
-            <marker date="1559328746405" expanded="true" signature="3217:3374" ph="/* Use partial application to create a binary function that creates a UK number, ... */" />
-            <marker date="1559328746405" expanded="true" signature="3612:4156" ph="/* 3. Functions everywhere. You may still have a feeling that objects are ultimately ... */" />
+            <marker date="1559551689020" expanded="true" signature="19:250" ph="{...}" />
+            <marker date="1559551689020" expanded="true" signature="45:248" ph="{...}" />
+            <marker date="1559551689020" expanded="true" signature="95:243" ph="{...}" />
+            <marker date="1559551689020" expanded="true" signature="113:201" ph="/* run the program you've written, for example: ... */" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Chapter03/Exercises.cs">
+    <entry file="file://$PROJECT_DIR$/Exercises/Chapter09/Exercises.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="310">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="49" />
           <folding>
-            <marker date="1559503616615" expanded="false" signature="6:297" ph="..." />
-            <marker date="1559503616615" expanded="true" signature="326:436" ph="{...}" />
-            <marker date="1559503616615" expanded="true" signature="373:434" ph="{...}" />
-            <marker date="1559503616615" expanded="true" signature="465:5219" ph="{...}" />
-            <marker date="1559503616615" expanded="true" signature="500:4349" ph="{...}" />
-            <marker date="1559503616615" expanded="true" signature="633:1460" ph="{...}" />
-            <marker date="1559503616615" expanded="true" signature="1269:1369" ph="/* new List&lt;int&gt;().Lookup(IsOdd).write(); ... */" />
-            <marker date="1559503616615" expanded="true" signature="1974:2201" ph="{...}" />
-            <marker date="1559503616615" expanded="true" signature="2047:2193" ph="/* var result = source.Where(predicate).ToList(); ... */" />
-            <marker date="1559503616615" expanded="true" signature="2228:2669" ph="{...}" />
-            <marker date="1559503616615" expanded="true" signature="2768:3087" ph="{...}" />
-            <marker date="1559503616615" expanded="true" signature="2881:3009" ph="{...}" />
-            <marker date="1559503616615" expanded="true" signature="3095:4344" ph="/* 1 Write a generic function that takes a string and parses it as a value of an enum. It ... */" />
-            <marker date="1559503616615" expanded="true" signature="4354:4665" ph="/* 5.  Write implementations for the methods in the `AppConfig` class ... */" />
-            <marker date="1559503616615" expanded="true" signature="4691:5217" ph="{...}" />
-            <marker date="1559503616615" expanded="true" signature="4855:4902" ph="{...}" />
+            <marker date="1559547631470" expanded="true" signature="6:346" ph="..." />
+            <marker date="1559547631470" expanded="true" signature="376:3155" ph="{...}" />
+            <marker date="1559547631470" expanded="true" signature="404:3153" ph="{...}" />
+            <marker date="1559547631470" expanded="true" signature="440:1276" ph="{...}" />
+            <marker date="1559547631470" expanded="true" signature="1284:1773" ph="/* LISTS ... */" />
+            <marker date="1559547631470" expanded="true" signature="1782:2239" ph="/* complexity: ... */" />
+            <marker date="1559547631470" expanded="true" signature="2248:3147" ph="/* TREES ... */" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/Chapter07/Exercises.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3959">
-          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="-3875">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="31" />
           <folding>
-            <marker date="1559506609614" expanded="true" signature="6:124" ph="..." />
-            <marker date="1559506609614" expanded="true" signature="155:6197" ph="{...}" />
-            <marker date="1559506609614" expanded="true" signature="183:6195" ph="{...}" />
-            <marker date="1559506609614" expanded="true" signature="219:942" ph="{...}" />
-            <marker date="1559506609614" expanded="true" signature="1376:2256" ph="/* 1. Partial application with a binary arithmethic function: ... */" />
-            <marker date="1559506609614" expanded="true" signature="2335:2653" ph="{...}" />
-            <marker date="1559506609614" expanded="true" signature="2513:2645" ph="{...}" />
-            <marker date="1559506609614" expanded="true" signature="2679:2998" ph="{...}" />
-            <marker date="1559506609614" expanded="true" signature="3375:3956" ph="/* 2. Let's move on to ternary functions. Define a class `PhoneNumber` with 3 ... */" />
-            <marker date="1559506609614" expanded="true" signature="4912:5461" ph="/* 3. Functions everywhere. You may still have a feeling that objects are ultimately ... */" />
+            <marker date="1559541131250" expanded="true" signature="6:124" ph="..." />
+            <marker date="1559541131250" expanded="true" signature="155:6197" ph="{...}" />
+            <marker date="1559541131250" expanded="true" signature="183:6195" ph="{...}" />
+            <marker date="1559541131250" expanded="true" signature="219:942" ph="{...}" />
+            <marker date="1559541131250" expanded="true" signature="1376:2256" ph="/* 1. Partial application with a binary arithmethic function: ... */" />
+            <marker date="1559541131250" expanded="true" signature="2335:2653" ph="{...}" />
+            <marker date="1559541131250" expanded="true" signature="2513:2645" ph="{...}" />
+            <marker date="1559541131250" expanded="true" signature="2679:2998" ph="{...}" />
+            <marker date="1559541131250" expanded="true" signature="3375:3956" ph="/* 2. Let's move on to ternary functions. Define a class `PhoneNumber` with 3 ... */" />
+            <marker date="1559541131250" expanded="true" signature="4912:5461" ph="/* 3. Functions everywhere. You may still have a feeling that objects are ultimately ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Chapter03/Exercises.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <marker date="1559541131234" expanded="false" signature="6:297" ph="..." />
+            <marker date="1559541131234" expanded="true" signature="326:436" ph="{...}" />
+            <marker date="1559541131234" expanded="true" signature="373:434" ph="{...}" />
+            <marker date="1559541131234" expanded="true" signature="465:5219" ph="{...}" />
+            <marker date="1559541131234" expanded="true" signature="500:4349" ph="{...}" />
+            <marker date="1559541131234" expanded="true" signature="633:1460" ph="{...}" />
+            <marker date="1559541131234" expanded="true" signature="1269:1369" ph="/* new List&lt;int&gt;().Lookup(IsOdd).write(); ... */" />
+            <marker date="1559541131234" expanded="true" signature="1974:2201" ph="{...}" />
+            <marker date="1559541131234" expanded="true" signature="2047:2193" ph="/* var result = source.Where(predicate).ToList(); ... */" />
+            <marker date="1559541131234" expanded="true" signature="2228:2669" ph="{...}" />
+            <marker date="1559541131234" expanded="true" signature="2768:3087" ph="{...}" />
+            <marker date="1559541131234" expanded="true" signature="2881:3009" ph="{...}" />
+            <marker date="1559541131234" expanded="true" signature="3095:4344" ph="/* 1 Write a generic function that takes a string and parses it as a value of an enum. It ... */" />
+            <marker date="1559541131234" expanded="true" signature="4354:4665" ph="/* 5.  Write implementations for the methods in the `AppConfig` class ... */" />
+            <marker date="1559541131234" expanded="true" signature="4691:5217" ph="{...}" />
+            <marker date="1559541131234" expanded="true" signature="4855:4902" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LaYumba.Functional/Exceptional.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+          <folding>
+            <marker date="1559196030953" expanded="false" signature="6:45" ph="..." />
+            <marker date="1559196030953" expanded="true" signature="75:3024" ph="{...}" />
+            <marker date="1559196030953" expanded="true" signature="110:209" ph="{...}" />
+            <marker date="1559196030953" expanded="true" signature="242:1287" ph="{...}" />
+            <marker date="1559196030953" expanded="true" signature="449:582" ph="{...}" />
+            <marker date="1559196030953" expanded="true" signature="619:679" ph="{...}" />
+            <marker date="1559196030953" expanded="true" signature="1323:3022" ph="{...}" />
+            <marker date="1559196030953" expanded="true" signature="2766:3017" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Chapter06/Solutions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+          <folding>
+            <marker date="1559196030932" expanded="false" signature="6:99" ph="..." />
+            <marker date="1559196030932" expanded="true" signature="139:2974" ph="{...}" />
+            <marker date="1559196030932" expanded="true" signature="167:2972" ph="{...}" />
+            <marker date="1559196030932" expanded="true" signature="179:520" ph="/* 1. Write a `ToOption` extension method to convert an `Either` into an ... */" />
+            <marker date="1559196030932" expanded="true" signature="875:1021" ph="/* 2. Take a workflow where 2 or more functions that return an `Option` ... */" />
+            <marker date="1559196030932" expanded="true" signature="1352:1658" ph="/* This should cause compilation to fail. Since `Either` can be ... */" />
+            <marker date="1559196030932" expanded="true" signature="2156:2416" ph="/* 3. Write a function `Safely` of type ((() → R), (Exception → L)) → Either&lt;L, R&gt; that will ... */" />
+            <marker date="1559196030932" expanded="true" signature="2494:2592" ph="{...}" />
+            <marker date="1559196030932" expanded="true" signature="2600:2825" ph="/* 4. Write a function `Try` of type (() → T) → Exceptional&lt;T&gt; that will ... */" />
+            <marker date="1559196030932" expanded="true" signature="2874:2967" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Chapter06/CookFavouriteFood.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="6" selection-start-line="6" selection-end-line="33" selection-end-column="17" />
+          <folding>
+            <marker date="1559196030861" expanded="false" signature="6:71" ph="..." />
+            <marker date="1559196030861" expanded="true" signature="100:809" ph="{...}" />
+            <marker date="1559196030861" expanded="true" signature="129:743" ph="{...}" />
+            <marker date="1559196030861" expanded="true" signature="420:738" ph="{...}" />
+            <marker date="1559196030861" expanded="true" signature="621:728" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Chapter06/Exercises.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="83" column="16" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
+          <folding>
+            <marker date="1559541131246" expanded="true" signature="6:91" ph="..." />
+            <marker date="1559541131246" expanded="true" signature="121:3389" ph="{...}" />
+            <marker date="1559541131246" expanded="true" signature="149:3387" ph="{...}" />
+            <marker date="1559541131246" expanded="true" signature="185:895" ph="{...}" />
+            <marker date="1559541131246" expanded="true" signature="1377:1746" ph="/* 1. Write a `ToOption` extension method to convert an `Either` into an ... */" />
+            <marker date="1559541131246" expanded="true" signature="2202:2698" ph="/* 2. Take a workflow where 2 or more functions that return an `Option` ... */" />
+            <marker date="1559541131246" expanded="true" signature="2772:2856" ph="{...}" />
+            <marker date="1559541131246" expanded="true" signature="2864:3062" ph="/* 3. Write a function `Safely` of type ((() → R), (Exception → L)) → Either&lt;L, R&gt; that will ... */" />
+            <marker date="1559541131246" expanded="true" signature="3110:3191" ph="{...}" />
+            <marker date="1559541131246" expanded="true" signature="3199:3382" ph="/* 4. Write a function `Try` of type (() → T) → Exceptional&lt;T&gt; that will ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LaYumba.Functional/Either.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2096">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <marker date="1559196030951" expanded="false" signature="6:79" ph="..." />
+            <marker date="1559196030951" expanded="true" signature="109:3459" ph="{...}" />
+            <marker date="1559196030951" expanded="true" signature="164:325" ph="{...}" />
+            <marker date="1559196030951" expanded="true" signature="356:1565" ph="{...}" />
+            <marker date="1559196030951" expanded="true" signature="531:624" ph="{...}" />
+            <marker date="1559196030951" expanded="true" signature="656:749" ph="{...}" />
+            <marker date="1559196030951" expanded="true" signature="1412:1470" ph="{...}" />
+            <marker date="1559196030951" expanded="true" signature="1596:2154" ph="{...}" />
+            <marker date="1559196030951" expanded="true" signature="1629:1796" ph="{...}" />
+            <marker date="1559196030951" expanded="true" signature="1826:2149" ph="{...}" />
+            <marker date="1559196030951" expanded="true" signature="2188:3457" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LaYumba.Functional/Validation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-236">
+          <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+          <folding>
+            <marker date="1559196030965" expanded="false" signature="6:98" ph="..." />
+            <marker date="1559196030965" expanded="true" signature="128:5142" ph="{...}" />
+            <marker date="1559196030965" expanded="true" signature="183:749" ph="{...}" />
+            <marker date="1559196030965" expanded="true" signature="781:2480" ph="{...}" />
+            <marker date="1559196030965" expanded="true" signature="1292:1389" ph="{...}" />
+            <marker date="1559196030965" expanded="true" signature="1425:1535" ph="{...}" />
+            <marker date="1559196030965" expanded="true" signature="2174:2232" ph="{...}" />
+            <marker date="1559196030965" expanded="true" signature="2515:5140" ph="{...}" />
+            <marker date="1559196030965" expanded="true" signature="2548:2681" ph="{...}" />
+            <marker date="1559196030965" expanded="true" signature="4358:4429" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LaYumba.Functional/Option.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="78" column="30" selection-start-line="78" selection-start-column="30" selection-end-line="78" selection-end-column="30" />
+          <folding>
+            <marker date="1559196030959" expanded="false" signature="6:79" ph="..." />
+            <marker date="1559196030959" expanded="true" signature="109:6257" ph="{...}" />
+            <marker date="1559196030959" expanded="false" signature="121:163" ph="..." />
+            <marker date="1559196030959" expanded="true" signature="197:400" ph="{...}" />
+            <marker date="1559196030959" expanded="true" signature="477:1706" ph="{...}" />
+            <marker date="1559196030959" expanded="true" signature="595:744" ph="{...}" />
+            <marker date="1559196030959" expanded="true" signature="1177:1234" ph="{...}" />
+            <marker date="1559196030959" expanded="true" signature="1730:2177" ph="{...}" />
+            <marker date="1559196030959" expanded="true" signature="1760:1837" ph="{...}" />
+            <marker date="1559196030959" expanded="true" signature="1866:2172" ph="{...}" />
+            <marker date="1559196030959" expanded="true" signature="1942:2164" ph="{...}" />
+            <marker date="1559196030959" expanded="true" signature="2211:6255" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Chapter06/Boc/EitherBasedAPIs/Result.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <marker date="1559196030858" expanded="true" signature="44:601" ph="{...}" />
+            <marker date="1559196030858" expanded="true" signature="75:352" ph="{...}" />
+            <marker date="1559196030858" expanded="true" signature="386:599" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Chapter08/Exercises.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+          <folding>
+            <marker date="1559560399421" expanded="true" signature="6:205" ph="..." />
+            <marker date="1559560399421" expanded="true" signature="236:3366" ph="{...}" />
+            <marker date="1559560399421" expanded="true" signature="263:3364" ph="{...}" />
+            <marker date="1559560399421" expanded="true" signature="293:1176" ph="{...}" />
+            <marker date="1559560399421" expanded="true" signature="2397:3293" ph="{...}" />
+            <marker date="1559560399421" expanded="true" signature="2689:3287" ph="{...}" />
+            <marker date="1559560399421" expanded="true" signature="2877:2970" ph="{...}" />
+            <marker date="1559560399421" expanded="true" signature="3164:3238" ph="{...}" />
           </folding>
         </state>
       </provider>

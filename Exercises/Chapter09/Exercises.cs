@@ -1,17 +1,47 @@
 using NUnit.Framework;
 using System;
-
+using System.Linq;
 using LaYumba.Functional;
 using LaYumba.Functional.Data.LinkedList;
 using static LaYumba.Functional.Data.LinkedList.LinkedList;
-
 using LaYumba.Functional.Data.BinaryTree;
 using static LaYumba.Functional.Data.BinaryTree.Tree;
+using Unit = System.ValueTuple;
+using static LaYumba.Functional.F;
 
 namespace Exercises.Chapter9
 {
    static class Exercises
    {
+      public static void Do() {
+         Func<int, int> @double = i => i * 2;
+         Some(3).Map(@double).write();
+
+         Func<int, Func<int, int>> multiply = x => y => x * y;
+         var multBy3 = Some(3).Map(multiply).write();
+
+         Func<int, int, int> m = (x, y) => x * y;
+         Some(3).Map(m).Apply(Some(2)).write();
+
+         Some(m)
+            .Apply(None)
+            .Apply(Some(2)).write();
+
+         Enumerable.Range(1, 100)
+            .Where(i => i % 20 == 0)
+            .OrderBy(i => -i)
+            .Select(i => $"{i}%")
+            .ForEach(i => i.write());
+
+         var linq = from i in Enumerable.Range(1, 100)
+            where i % 20 == 0
+            orderby -i
+            select $"{i}%".write();
+
+         var enumerable = from x in Enumerable.Range(1, 4)
+            select (x * 2).write();
+         enumerable.ToList();
+      } 
       // LISTS
 
       // Implement functions to work with the singly linked List defined in this chapter:
