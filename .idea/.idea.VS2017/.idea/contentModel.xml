@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\okwyseet\.nuget\packages\mstest.testadapter\1.1.11\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
-    <e p="C:\Users\okwyseet\.nuget\packages\mstest.testadapter\1.1.11\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
-    <e p="C:\Users\okwyseet\.nuget\packages\mstest.testadapter\1.1.11\build\netstandard1.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
-    <e p="C:\Users\okwyseet\.nuget\packages\xunit.runner.visualstudio\2.2.0\build\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll" t="Include" />
-    <e p="C:\Users\okwyseet\.nuget\packages\xunit.runner.visualstudio\2.2.0\build\netcoreapp1.0\xunit.runner.utility.netstandard15.dll" t="Include" />
-    <e p="C:\Users\okwyseet\.nuget\packages\xunit.runner.visualstudio\2.2.0\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
-    <e p="C:\Users\okwyseet\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_VS2017.3717811.00" t="ExcludeRecursive" />
-    <e p="D:\dev\Projects\functional-csharp-code" t="IncludeFlat">
+    <e p="\app" t="IncludeRecursive" />
+    <e p="\cbf7d978" t="IncludeRecursive" />
+    <e p="C:\Users\Roman\.nuget\packages\mstest.testadapter\1.1.11\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\Roman\.nuget\packages\mstest.testadapter\1.1.11\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
+    <e p="C:\Users\Roman\.nuget\packages\mstest.testadapter\1.1.11\build\netstandard1.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+    <e p="C:\Users\Roman\.nuget\packages\xunit.runner.visualstudio\2.2.0\build\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll" t="Include" />
+    <e p="C:\Users\Roman\.nuget\packages\xunit.runner.visualstudio\2.2.0\build\netcoreapp1.0\xunit.runner.utility.netstandard15.dll" t="Include" />
+    <e p="C:\Users\Roman\.nuget\packages\xunit.runner.visualstudio\2.2.0\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\Roman\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Roman\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Roman\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_VS2017.1719770137.00" t="ExcludeRecursive" />
+    <e p="D:\Current\func\functional-csharp-code" t="IncludeFlat">
       <e p="Examples" t="IncludeRecursive">
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />

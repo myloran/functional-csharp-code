@@ -128,6 +128,30 @@ namespace Exercises.Chapter9
       // and you’d like to get all items greater/smaller than some value; write implementations 
       // that take an IEnumerable rather than a List
 
+      static Tree<R> Bind<T, R>(this Tree<T> tree, Func<T, Tree<R>> bind) =>
+         tree.Match(
+            bind,
+            (l, r) => Branch(l.Bind(bind), r.Bind(bind)));
+
+      struct LabelTree<T> {
+         public T Label { get; }
+         public LaYumba.Functional.Data.LinkedList.List<LabelTree<T>> Subtrees { get; }
+
+         public LabelTree(T label, LaYumba.Functional.Data.LinkedList.List<LabelTree<T>> subtrees) {
+            Label = label;
+            Subtrees = subtrees;
+         }
+
+         public override string ToString() => $"{nameof(Label)}: {Label}, {nameof(Subtrees)}: {string.Join(",", Subtrees.AsEnumerable())}";
+         public override bool Equals(object other) => ToString() == other.ToString();
+      }
+      
+      //Dictionary<string, LaYumba.Functional.Data.LinkedList.List<T>> dict
+//      static LabelTree<R> Map<T, R>(this LabelTree<T> tree, Func<T, R> map) =>
+//         tree.subtrees.Match(
+//            () => List<R>(),
+//            (t, ts) => List(map(t), ts.Map(map)));
+
 
       // TREES
 
