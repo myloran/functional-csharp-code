@@ -61,6 +61,22 @@ namespace Exercises.Chapter9
          var fruits6 = fruits.AsEnumerable().TakeWhile(f => f.StartsWith("p"));
          var fruits7 = fruits.AsEnumerable().DropWhile(f => f.StartsWith("p"));
          fruits7.ForEach(f => f.write());
+
+         var tree = Tree("wtf", List(
+            Tree("wtf2"),
+            Tree("wtf3"),
+            Tree("wtf4")));
+         
+         var translations = new Dictionary<string, string> {
+            {"wtf", "ok"},
+            {"wtf2", "ok2"},
+            {"wtf3", "ok3"},
+            {"wtf4", "ok4"},
+         };
+
+         Func<string, string> translate = label => translations[label];
+         
+         tree.Map(translate).ToString().write();
       }
 
       static LaYumba.Functional.Data.LinkedList.List<T> InsertAt<T>(this LaYumba.Functional.Data.LinkedList.List<T> list, T item, int index) =>
@@ -142,11 +158,21 @@ namespace Exercises.Chapter9
             Subtrees = subtrees;
          }
 
-         public override string ToString() => $"{nameof(Label)}: {Label}, {nameof(Subtrees)}: {string.Join(",", Subtrees.AsEnumerable())}";
+         public override string ToString() => $"{Label} {SubTreesToString}";
          public override bool Equals(object other) => ToString() == other.ToString();
+
+         string SubTreesToString => Subtrees.Match(() => "", (t, ts) => $"[{string.Join(",", List(t, ts).AsEnumerable())}]");
       }
       
-      //Dictionary<string, LaYumba.Functional.Data.LinkedList.List<T>> dict
+//      Dictionary<string, LaYumba.Functional.Data.LinkedList.List<T>> dict
+
+      static LabelTree<R> Map<T, R>(this LabelTree<T> tree, Func<T, R> map) =>
+         new LabelTree<R>(map(tree.Label), tree.Subtrees.Map(s => s.Map(map)));
+      
+      static LabelTree<T> Tree<T>(T label, LaYumba.Functional.Data.LinkedList.List<LabelTree<T>> subtrees = null) =>
+         new LabelTree<T>(label, subtrees ?? List<LabelTree<T>>());
+         
+
 //      static LabelTree<R> Map<T, R>(this LabelTree<T> tree, Func<T, R> map) =>
 //         tree.subtrees.Match(
 //            () => List<R>(),
@@ -168,5 +194,40 @@ namespace Exercises.Chapter9
       // to translations in one of the languages that your site must support
       // (hint: define `Map` for `LabelTree` and use it to obtain the localized navigation/category tree)
 
+      [Test]
+      public static void LabelTreeTest() {
+         //arrange
+         var tree = Tree("wtf", List(
+            Tree("wtf2"),
+            Tree("wtf3", List(
+               Tree("what"),
+               Tree("what2"),
+               Tree("what3"))),
+            Tree("wtf4")));
+         
+         var translations = new Dictionary<string, string> {
+            {"wtf", "ok"},
+            {"wtf2", "ok2"},
+            {"wtf3", "ok3"},
+            {"wtf4", "ok4"},
+            {"what", "not"},
+            {"what2", "not2"},
+            {"what3", "not3"},
+         };
+
+         //act
+         var actual = tree.Map(label => translations[label]);
+         
+         //assert
+         var expected = Tree("ok", List(
+            Tree("ok2"),
+            Tree("ok3", List(
+               Tree("not"),
+               Tree("not2"),
+               Tree("not3"))),
+            Tree("ok4")));
+         
+         Assert.AreEqual(expected, actual);
+      }
    }
 }
